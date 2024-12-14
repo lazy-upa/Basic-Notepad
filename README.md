@@ -6,7 +6,7 @@ This is a simple notepad program implemented in C++. It allows users to:
 - Edit specific lines in a file.
 
 ## How to Use
-1. Run the executable `notepad.exe`.
+1. Run the executable `notepad.exe`(can be found in `bin` folder).
 2. Follow the menu options to perform the desired actions.
 
 ### Menu Options
